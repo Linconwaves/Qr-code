@@ -20,7 +20,7 @@ Before running the program, ensure you have Rust installed on your system. You c
     cd Qr-code
     ```
 
-3. Update the `data` variable in the `main` function of `main.rs` with your desired message.
+3. Update the `data` variable in the `main` function of `qr-code.rs` with your desired message.
 
 4. Place the image you want to overlay at the center of the QR code in the specified path (update `center_image_path`).
 
